@@ -1,0 +1,182 @@
+body {
+    position: relative;
+width: 1280px;
+height: 720px;
+
+background: #FFFFFF;
+}
+
+img.retangle {
+    position: absolute;
+width: 826.78px;
+height: 294px;
+left: 144px;
+top: 8px;
+}
+
+img.logo {
+    position: absolute;
+width: 200px;
+height: 200px;
+left: 1000px;
+top: 22px;
+
+
+}
+h1 {
+    position: absolute;
+width: 279px;
+height: 79px;
+left: 160px;
+top: 100px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+
+h2 {
+    position: absolute;
+width: 644px;
+height: 177px;
+left: 160px;
+top: 135px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 48px;
+
+color: #FFFFFF;
+
+}
+ h3 {
+    position: absolute;
+width: 266px;
+height: 39px;
+left: 482px;
+top: 321px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+ }
+img.meja {
+    position: absolute;
+width: 409px;
+height: 470px;
+left: 1100px;
+top: 265px;
+
+}
+
+.myProgress {
+    position: absolute;
+    width: 400px;
+    background-color: grey;
+    top: 400px;
+    left: 400px;
+  }
+  
+  .myBar {
+    width: 10px;
+    height: 30px;
+    background-color: green;
+    
+  }
+
+ h4{ 
+    position: absolute;
+  width: 266px;
+  height: 39px;
+  left: 500px;
+  top: 420px;
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 23px;
+  
+  color: #000000;
+ }
+
+ a.card1 {
+    position: absolute;
+    width: 150px;
+    top: 500px;
+    left: 400px;
+    transition: all 0.4s ease-in;
+ 
+ }
+
+ a.card1:hover {
+    transform: translateY(-1.5rem);
+      
+ }
+
+ a.card2 {
+    position: absolute;
+    width: 150px;
+    top: 500px;
+    left: 600px;
+    transition: all 0.4s ease-in;
+ 
+ }
+
+ a.card2:hover {
+    transform: translateY(-1.5rem);
+      
+ }
+
+ a.card3 {
+    position: absolute;
+    width: 150px;
+    top: 500px;
+    left: 800px;
+    transition: all 0.4s ease-in;
+ 
+ }
+
+ a.card3:hover {
+    transform: translateY(-1.5rem);
+      
+ }
+
+ h5 {
+    position: absolute;
+  width: 266px;
+  height: 39px;
+  left: 100px;
+  top: 310px;
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 23px;
+  
+  color: #000000;
+ }
+
+ a.card4 {
+    position: absolute;
+    width: 248px;
+    top: 400px;
+    left: 100px;
+    transition: all 0.4s ease-in;
+ }
+
+ a.card4:hover {
+    transform: translateY(-1.5rem);
+ }
